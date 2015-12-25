@@ -1,0 +1,3 @@
+makdown: redcarpet
+baseurl: /business.community
+exclude: ['README.md']
